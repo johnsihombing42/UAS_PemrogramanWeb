@@ -50,6 +50,14 @@
 		<dc:price>Rp16.499.000</dc:price>
 	</rdf:Description>
 
-
+	<rdf:Description
+	rdf:about="https://www.asus.com/">
+	<dc:name>Lenovo Ideapad Slim 5 Pro</dc:name>
+	<laptop:processor> Intel® Core™ i7-11300H</laptop:processor>
+	<dc:memory>8GB/16GB DDR4</dc:memory>
+	<laptop:storage>512 Gb</laptop:storage>
+	<dc:price>Rp16.499.000</dc:price>
+	<dc:description>The company sells automobiles and commercial vehicles under the ford brand and luxury cars under its Lincoln luxury brand</dc:description>
+</rdf:Description>
 </rdf:RDF>
 	
