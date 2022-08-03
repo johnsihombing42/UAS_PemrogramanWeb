@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:laptop="http://www.projectsemweb/namespace#">
+	
+	<rdf:Description
+		rdf:about="https://www.asus.com/">
+		<dc:name>ASUS TUF DASH F15 FX516PM</dc:name>
+		<laptop:processor> Intel® Core™ i5-11300H</laptop:processor>
+		<dc:memory>8GB/16GB DDR4</dc:memory>
+		<laptop:storage>512 Gb</laptop:storage>
+		<dc:price>Rp17.499.000</dc:price>
+		<dc:description>The company sells automobiles and commercial vehicles under the ford brand and luxury cars under its Lincoln luxury brand</dc:description>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://www.lenovo.com/">
+		<dc:name>Laptop Lenovo Ideapad Slim 5</dc:name>
+		<laptop:processor>Intel Core i7-1165G7</laptop:processor>
+		<dc:memory>16GB Soldered DDR4-3200</dc:memory>
+		<laptop:storage>512GB SSD</laptop:storage>
+		<dc:price>Rp15.699.000</dc:price>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://www.msi.com">
+		<dc:name>MSI GF63 Thin 10SCS</dc:name>
+		<laptop:processor>Intel® Core™ i7-10750H </laptop:processor>
+		<dc:memory>8 GB DDR4</dc:memory>
+		<laptop:storage>512 GB</laptop:storage>
+		<dc:price>Rp14.000.000</dc:price>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://ww.acer.com">
+		<dc:name>ACER SWIFT 3 SF314-43</dc:name>
+		<laptop:processor>AMD Ryzen™ 7 5700U</laptop:processor>
+		<dc:memory>16GB </dc:memory>
+		<laptop:storage>1 TB SSD</laptop:storage>
+		<dc:price>Rp14.499.000</dc:price>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://www.apple.com">
+		<dc:name>Apple Macbook Air 13inch M1</dc:name>
+		<laptop:processor>Apple M1 Chip (CPU 8-Core, GPU 7-Core)</laptop:processor>
+		<dc:memory>8 GB</dc:memory>
+		<laptop:storage>256 GB</laptop:storage>
+		<dc:price>Rp16.499.000</dc:price>
+	</rdf:Description>
+
+
+</rdf:RDF>
+	
